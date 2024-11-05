@@ -1,0 +1,12 @@
+{
+  "name": "angular-project-cli",
+  "version": "1.0.0",
+  "workspaces": [
+    "components-project",
+    "template-project"
+  ],
+  "main": "index.js",
+  "repository": "git@github.com:zhoujie16/angular-project-cli.git",
+  "author": "Jie.Zhou <Jie.Zhou.-ND@disney.com>",
+  "license": "MIT"
+}
