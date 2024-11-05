@@ -1,6 +1,7 @@
 {
-  "name": "angular-project-cli",
+  "name": "angular-project-b-cli",
   "version": "1.0.0",
+  "private": true,
   "workspaces": [
     "components-project",
     "template-project"
